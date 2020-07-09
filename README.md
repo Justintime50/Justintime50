@@ -2,7 +2,7 @@
   
 # Hey, I'm Justin Hammond
 
-## Entrepreneur, Software Engineer, & IT Professional
+**Entrepreneur, Software Engineer, & IT Professional**
 
 </div>
 
