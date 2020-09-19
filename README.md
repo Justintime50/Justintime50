@@ -1,14 +1,19 @@
 # Hey, I'm Justin Hammond 👋
 
-### Entrepreneur, Software Engineer, & IT Professional
+> Entrepreneur, Software Engineer, & IT Professional
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Justintime50&&show_icons=true&theme=tokyonight)](https://justinpaulhammond.com)
+I'm a Software Engineer @EasyPost. Co-founder @ncr4. Open source fanatic. Lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
 
-## About Me :smirk:
+[![GitHub](https://img.shields.io/badge/GitHub-justintime50-black)](https://github.com/Justintime50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/justin-hammond/)
+[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
+[![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://justinpaulhammond.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.justinpaulhammond.com-yellowgreen)](https://justinpaulhammond.com)
+
+
+## About Me
 I am passionate about new, innovative technologies. Programming video games since the age of 12, websites at the age of 14, and starting Tuneup Technology (an IT consulting and repair business) at 16, I have years of experience in technology. I co-founded NCR4 (a web design and hosting company) and played a major role in the creation of Nozani (an ecommerce ageny) in my early 20's. I have been involved with multiple startups in both leadership and technology capacities.
 
-## Learn More:question: 
+## GitHub Stats
 
-* [LinkedIn](https://www.linkedin.com/in/justin-hammond)
-* [Website](https://justinpaulhammond.com/)
-* [Blog](https://blog.justinpaulhammond.com/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justintime50&&show_icons=true)](https://justinpaulhammond.com)
