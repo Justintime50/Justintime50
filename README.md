@@ -8,7 +8,7 @@ I'm a Software Engineer at [EasyPost](https://www.easypost.com) and Co-founder a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/justin-hammond/)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
 [![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://justinpaulhammond.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.justinpaulhammond.com-yellowgreen)](https://justinpaulhammond.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.justinpaulhammond.com-yellowgreen)](https://blog.justinpaulhammond.com)
 
 ## About Me
 
