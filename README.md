@@ -2,7 +2,7 @@
 
 ### Entrepreneur, Software Engineer, & IT Professional
 
-I'm a Software Engineer at [EasyPost](https://www.easypost.com) and Co-founder at [ncr4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
+I'm a Software Engineer at [EasyPost](https://www.easypost.com) and co-founder at [NCR4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
 
 [![GitHub](https://img.shields.io/badge/GitHub-justintime50-black)](https://github.com/Justintime50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/justin-hammond/)
