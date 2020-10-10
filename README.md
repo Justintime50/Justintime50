@@ -4,7 +4,7 @@
 
 I'm a Software Engineer at [EasyPost](https://www.easypost.com) and co-founder at [NCR4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
 
-[![GitHub](https://img.shields.io/badge/GitHub-justintime50-black)](https://github.com/Justintime50)
+[![GitHub](https://img.shields.io/badge/GitHub-Justintime50-black)](https://github.com/Justintime50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/justin-hammond/)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
 [![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://justinpaulhammond.com)
