@@ -20,9 +20,9 @@ I love all things tech. I've been programming since the age of 12, repairing iPh
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Attending One of the Largest Tech Conferences in the World (Silicon Slopes Summit 2021)](https://blog.justinpaulhammond.com/Justin-Hammond/attending-one-of-the-largest-tech-conferences-in-the-world-silicon-slopes-summit-2021)
 - [Pin Your Dang Dependencies](https://blog.justinpaulhammond.com/Justin-Hammond/pin-your-dang-dependencies)
 - [iPhone 12 &amp; 12 Pro Review + Unboxing: Worth the Upgrade?](https://blog.justinpaulhammond.com/Justin-Hammond/iphone-12-12-pro-review-unboxing-worth-the-upgrade)
 - [A Day in the Life of a Software Engineer](https://blog.justinpaulhammond.com/Justin-Hammond/a-day-in-the-life-of-a-software-engineer)
 - [Building my Magic Mirror](https://blog.justinpaulhammond.com/Justin-Hammond/building-my-magic-mirror)
+- [Clone or Pull All of your GitHub Repositories](https://blog.justinpaulhammond.com/Justin-Hammond/clone-or-pull-all-of-your-github-repositories)
 <!-- BLOG-POST-LIST:END -->
