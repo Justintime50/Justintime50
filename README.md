@@ -1,6 +1,6 @@
 # Hey, I'm Justin Hammond 👋
 
-### Developer Experience Lead & Software Engineer @EasyPost, IT Pro, Tech Enthusiast
+### Developer Experience Lead & Software Engineer [@EasyPost](https://github.com/easypost), IT Pro, Tech Enthusiast.
 
 I love all things tech. I've been programming since the age of 12, repairing iPhones since 16, and founding tech companies since 20. I'm an open source fanatic, Apple fanboy, and love to explore new tech. I spend my time coding open source projects, tinkering with electronics and new tech products, and consulting teams on how to get things done.
 
