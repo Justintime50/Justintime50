@@ -6,6 +6,7 @@ I love all things tech. I've been programming since the age of 12, repairing iPh
 
 [![GitHub](https://img.shields.io/badge/GitHub-Justintime50-black)](https://github.com/Justintime50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/justin-hammond/)
+[![Twitter](https://img.shields.io/badge/Twitter-Justintime__50-blue)](https://www.twitter.com/Justintime_50/)
 [![YouTube](https://img.shields.io/badge/YouTube-JustinHammond-red)](https://youtube.com/c/JustinHammond)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
 [![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://justinpaulhammond.com)
