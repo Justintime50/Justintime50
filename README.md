@@ -1,16 +1,22 @@
 # Hey, I'm Justin Hammond 👋
 
-### Developer Experience Lead & Software Engineer [@EasyPost](https://github.com/easypost), IT Pro, Tech Enthusiast.
+## Developer Experience Lead & Software Engineer [@EasyPost](https://github.com/easypost), IT Pro, Tech Enthusiast
 
 I love all things tech. I've been programming since the age of 12, repairing iPhones since 16, and founding tech companies since 20. I'm an open source fanatic, Apple fanboy, and love to explore new tech. I spend my time coding open source projects, tinkering with electronics and new tech products, and consulting teams on how to get things done.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Justintime50-black)](https://github.com/Justintime50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/justin-hammond/)
-[![Twitter](https://img.shields.io/badge/Twitter-Justintime__50-blue)](https://www.twitter.com/Justintime_50/)
-[![YouTube](https://img.shields.io/badge/YouTube-JustinHammond-red)](https://youtube.com/c/JustinHammond)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
-[![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://justinpaulhammond.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.justinpaulhammond.com-yellowgreen)](https://blog.justinpaulhammond.com)
+### Socials
+
+<a href="https://github.com/Justintime50"><img src="assets/github.png" width="128"></a>
+<a href="https://www.linkedin.com/in/justin-hammond"><img src="assets/linkedin.png" width="128"></a>
+<a href="https://youtube.com/c/JustinHammond"><img src="assets/youtube.png" width="128"></a>
+<a href="https://www.twitter.com/Justintime_50"><img src="assets/twitter.png" width="128"></a>
+
+### Other Platforms
+
+<a href="https://stackoverflow.com/users/6064135/justin-hammond?tab=profile"><img src="assets/stack_overflow.png" width="128"></a>
+<a href="https://justinpaulhammond.com"><img src="assets/web.png" width="128"></a>
+<a href="https://blog.justinpaulhammond.com"><img src="assets/blog.png" width="128"></a>
+<a href="https://www.thingiverse.com/justintime50"><img src="assets/thingiverse.png" width="128"></a>
 
 ## GitHub Stats
 
