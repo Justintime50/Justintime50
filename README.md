@@ -18,6 +18,14 @@ I love all things tech. I've been programming since the age of 12, repairing iPh
 <a href="https://blog.justinpaulhammond.com"><img src="assets/blog.png" width="128"></a>
 <a href="https://www.thingiverse.com/justintime50"><img src="assets/thingiverse.png" width="128"></a>
 
+## Noteworthy Projects
+
+The following are items that may not be represented on my GitHub profile but are noteworthy in the software space:
+
+- Crazy Color Clash: My iOS game has finally hit the app store! <a href="https://apps.apple.com/us/app/crazy-color-clash/id1641436535">Download Crazy Color Clash</a> for free on the App Store today! Visit <a href="https://crazycolorclash.com">https://crazycolorclash.com</a> for more details.
+- Magic Mirror: I built a Magic Mirror which combines the best of software and hardware. <a href="https://blog.justinpaulhammond.com/justin-hammond/building-my-magic-mirror">Read all about it</a>.
+- I've been designing 3D printable modals lately and am slowly uploading my creations to Thingiverse. <a href="https://www.thingiverse.com/justintime50">Check them out here</a>.
+
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justintime50&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://justinpaulhammond.com)
