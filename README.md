@@ -1,11 +1,5 @@
 # Hey, I'm Justin Hammond 👋
 
-## Developer Experience Lead & Software Engineer [@EasyPost](https://github.com/easypost), IT Pro, Tech Enthusiast
-
-I love all things tech. I've been programming since the age of 12, repairing iPhones since 16, and founding tech companies since 20. I'm an open source fanatic, Apple fanboy, and love to explore new tech. I spend my time coding open source projects, tinkering with electronics and new tech products, and consulting teams on how to get things done.
-
-### Socials & Platforms
-
 <a href="https://github.com/Justintime50"><img src="assets/github.png" width="64"></a>
 <a href="https://www.linkedin.com/in/justin-hammond"><img src="assets/linkedin.png" width="64"></a>
 <a href="https://youtube.com/c/JustinHammond"><img src="assets/youtube.png" width="64"></a>
@@ -15,11 +9,15 @@ I love all things tech. I've been programming since the age of 12, repairing iPh
 <a href="https://blog.justinpaulhammond.com"><img src="assets/blog.png" width="64"></a>
 <a href="https://www.thingiverse.com/justintime50"><img src="assets/thingiverse.png" width="64"></a>
 
+## Developer Experience Lead & Software Engineer [@EasyPost](https://github.com/easypost), IT Pro, Tech Enthusiast
+
+I love all things tech. I've been programming since the age of 12, repairing iPhones since 16, and founding tech companies since 20. I'm an open source fanatic, Apple fanboy, and love to explore new tech. I spend my time coding open source projects, tinkering with electronics and new tech products, and consulting teams on how to get things done.
+
 ## Noteworthy Projects
 
 The following are items that may not be represented on my GitHub profile but are noteworthy in the software space:
 
-- Crazy Color Clash: My iOS game has finally hit the app store! <a href="https://apps.apple.com/us/app/crazy-color-clash/id1641436535">Download Crazy Color Clash</a> for free on the App Store today! Visit <a href="https://crazycolorclash.com">https://crazycolorclash.com</a> for more details.
+- Crazy Color Clash: My iOS game has finally hit the app store! <a href="https://apps.apple.com/us/app/crazy-color-clash/id1641436535">Download Crazy Color Clash</a> for free on the App Store today! Visit <a href="<https://crazycolorclash.com>">https://crazycolorclash.com</a> for more details.
 - Magic Mirror: I built a Magic Mirror which combines the best of software and hardware. <a href="https://blog.justinpaulhammond.com/justin-hammond/building-my-magic-mirror">Read all about it</a>.
 - I've been designing 3D printable models lately and am slowly uploading my creations to Thingiverse. <a href="https://www.thingiverse.com/justintime50">Check them out here</a>.
 
