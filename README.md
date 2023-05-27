@@ -30,9 +30,9 @@ The following are items that may not be represented on my GitHub profile but are
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvey Deadlock Issues - Making Docker, uWSGI, and Nginx Play Nice](https://blog.justinpaulhammond.com/Justin-Hammond/harvey-deadlock-issues-making-docker-u-wsgi-and-nginx-play-nice)
 - [Book Notes: Leadership and Self Deception](https://blog.justinpaulhammond.com/Justin-Hammond/book-notes-leadership-and-self-deception)
 - [Book Notes: Software Engineering at Google](https://blog.justinpaulhammond.com/Justin-Hammond/book-notes-software-engineering-at-google)
 - [I Built an iOS Game &lpar;Crazy Color Clash&rpar; - Here&amp;#039;s What I Learned](https://blog.justinpaulhammond.com/Justin-Hammond/i-built-an-i-os-game-crazy-color-clash-heres-what-i-learned)
 - [Build vs Buy in Software Engineering](https://blog.justinpaulhammond.com/Justin-Hammond/build-vs-buy-in-software-engineering)
-- [Attending One of the Largest Tech Conferences in the World &lpar;Silicon Slopes Summit 2021&rpar;](https://blog.justinpaulhammond.com/Justin-Hammond/attending-one-of-the-largest-tech-conferences-in-the-world-silicon-slopes-summit-2021)
 <!-- BLOG-POST-LIST:END -->
