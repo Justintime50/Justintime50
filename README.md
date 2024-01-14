@@ -28,9 +28,9 @@ The following are items that may not be represented on my GitHub profile but are
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Not Hold the Picture Button Down on iPhone for Videos, You&amp;#039;ll Regret It](https://blog.justinpaulhammond.com/Justin-Hammond/do-not-hold-the-picture-button-down-on-i-phone-for-videos-youll-regret-it)
 - [Book Notes: Engineering Management for the Rest of Us](https://blog.justinpaulhammond.com/Justin-Hammond/book-notes-engineering-management-for-the-rest-of-us)
 - [Lessons Learned Running a Space Simulator](https://blog.justinpaulhammond.com/Justin-Hammond/lessons-learned-running-a-space-simulator)
 - [Book Notes: Rich Dad Poor Dad](https://blog.justinpaulhammond.com/Justin-Hammond/book-notes-rich-dad-poor-dad)
 - [Harvey Deadlock Issues - Making Docker, uWSGI, and Nginx Play Nice](https://blog.justinpaulhammond.com/Justin-Hammond/harvey-deadlock-issues-making-docker-u-wsgi-and-nginx-play-nice)
-- [Book Notes: Leadership and Self Deception](https://blog.justinpaulhammond.com/Justin-Hammond/book-notes-leadership-and-self-deception)
 <!-- BLOG-POST-LIST:END -->
