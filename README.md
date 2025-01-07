@@ -9,7 +9,7 @@
 <a href="https://blog.justinpaulhammond.com"><img src="assets/blog.png" width="64"></a>
 <a href="https://www.thingiverse.com/justintime50"><img src="assets/thingiverse.png" width="64"></a>
 
-## Senior Software Engineer @ [EasyPost](https://github.com/easypost), Technical Founder
+## Technical Founder @ [Fairway Logic](https://github.com/Fairway-Logic) | Senior Software Engineer
 
 I love all things tech. I've been programming for 18+ years, tinkering with electronics for 15+ years, and founding or building tech companies for 10+ years. I'm an open source fanatic, Apple fanboy, and love to explore new tech. I spend my time coding open source projects, tinkering with electronics and new tech products, and consulting teams on how to get things done.
 
