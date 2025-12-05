@@ -12,8 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Need to use master here since the project is abandoned but master contains an unreleased fix for metrics
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -30,12 +29,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Denver
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: public
+          # TODO: activity is not currently working
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: public
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
@@ -44,7 +44,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: Hack, Makefile
+          plugin_languages_ignored: Hack, Makefile, Blade, HTML, Justfile
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
