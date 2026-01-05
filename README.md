@@ -16,7 +16,7 @@ I love all things tech. I've been programming for 20+ years, tinkering with elec
 Projects not publicly available on GitHub but are coding adjacent:
 
 - **[Crazy Color Clash](https://apps.apple.com/us/app/crazy-color-clash/id1641436535):** My iOS game, is available on the App Store for free! Visit [crazycolorclash.com](https://crazycolorclash.com) for more details.
-- Magic Mirror: I built a Magic Mirror which combines the best of software and hardware. [Read all about it](https://blog.justinpaulhammond.com/justin-hammond/building-my-magic-mirror).
+- **Magic Mirror**: I built a Magic Mirror which combines the best of software and hardware. [Read all about it](https://blog.justinpaulhammond.com/justin-hammond/building-my-magic-mirror).
 - More details _may_ be found on my website: [justinpaulhammond.com](https://justinpaulhammond.com)
 
 ## Latest Blog Posts
