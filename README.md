@@ -1,11 +1,11 @@
 # Hey, I'm Justin Hammond 👋
 
-[![GitHub](assets/github.svg)](https://github.com/justintime50)
-[![LinkedIn](assets/linkedin.svg)](https://linkedin.com/in/justin-hammond)
-[![YouTube](assets/youtube.svg)](https://youtube.com/c/JustinHammond)
-[![Twitter](assets/twitter.svg)](https://twitter.com/Justintime_50)
-[![Stack Overflow](assets/stack-overflow.svg)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
-[![Blog](assets/rss.svg)](https://blog.justinpaulhammond.com)
+[![GitHub](assets/github.png)](https://github.com/justintime50)
+[![LinkedIn](assets/linkedin.png)](https://linkedin.com/in/justin-hammond)
+[![YouTube](assets/youtube.png)](https://youtube.com/c/JustinHammond)
+[![Twitter](assets/twitter.png)](https://twitter.com/Justintime_50)
+[![Stack Overflow](assets/stack-overflow.png)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
+[![Blog](assets/rss.png)](https://blog.justinpaulhammond.com)
 
 ## Technical Founder @ [Golf Rocket](https://github.com/golf-rocket) | Senior Software Engineer
 
