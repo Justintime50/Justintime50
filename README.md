@@ -1,23 +1,11 @@
 # Hey, I'm Justin Hammond 👋
 
-<a href="https://github.com/justintime50">
-  <img src="assets/github.svg" width="64" height="64" style="filter: invert(1);">
-</a>
-<a href="https://linkedin.com/in/justin-hammond">
-    <img src="assets/linkedin.svg" width="64" height="64" style="filter: invert(1);">
-</a>
-<a href="https://youtube.com/c/JustinHammond">
-    <img src="assets/youtube.svg" width="64" height="64" style="filter: invert(1);">
-</a>
-<a href="https://twitter.com/Justintime_50">
-    <img src="assets/twitter.svg" width="64" height="64" style="filter: invert(1);">
-</a>
-<a href="https://stackoverflow.com/users/6064135/justin-hammond?tab=profile">
-    <img src="assets/stack-overflow.svg" width="64" height="64" style="filter: invert(1);">
-</a>
-<a href="https://blog.justinpaulhammond.com">
-    <img src="assets/rss.svg" width="64" height="64" style="filter: invert(1);">
-</a>
+[![GitHub](assets/github.svg)](https://github.com/justintime50)
+[![LinkedIn](assets/linkedin.svg)](https://linkedin.com/in/justin-hammond)
+[![YouTube](assets/youtube.svg)](https://youtube.com/c/JustinHammond)
+[![Twitter](assets/twitter.svg)](https://twitter.com/Justintime_50)
+[![Stack Overflow](assets/stack-overflow.svg)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
+[![Blog](assets/rss.svg)](https://blog.justinpaulhammond.com)
 
 ## Technical Founder @ [Golf Rocket](https://github.com/golf-rocket) | Senior Software Engineer
 
@@ -27,9 +15,9 @@ I love all things tech. I've been programming for 20+ years, tinkering with elec
 
 Projects not publicly available on GitHub but are coding adjacent:
 
-- **<a href="https://apps.apple.com/us/app/crazy-color-clash/id1641436535">Crazy Color Clash</a>:** My iOS game, is available on the App Store for free! Visit <a href="<https://crazycolorclash.com>">crazycolorclash.com</a> for more details.
-- Magic Mirror: I built a Magic Mirror which combines the best of software and hardware. <a href="https://blog.justinpaulhammond.com/justin-hammond/building-my-magic-mirror">Read all about it</a>.
-- More details _may_ be found on my website: <a href="https://justinpaulhammond.com">justinpaulhammond.com</a>
+- **[Crazy Color Clash](https://apps.apple.com/us/app/crazy-color-clash/id1641436535):** My iOS game, is available on the App Store for free! Visit [crazycolorclash.com](https://crazycolorclash.com) for more details.
+- Magic Mirror: I built a Magic Mirror which combines the best of software and hardware. [Read all about it](https://blog.justinpaulhammond.com/justin-hammond/building-my-magic-mirror).
+- More details _may_ be found on my website: [justinpaulhammond.com](https://justinpaulhammond.com)
 
 ## Latest Blog Posts
 
